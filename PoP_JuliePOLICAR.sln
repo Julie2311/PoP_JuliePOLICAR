@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson02", "Lesson01\Lesson02.csproj", "{FB7FDA7F-D23F-498B-81B1-418D6DBE6C35}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson03", "Lesson03\Lesson03.csproj", "{56C975E9-2271-421A-87E4-86A546223FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05", "Lesson05\Lesson05.csproj", "{BD05AA30-6F19-447A-B07C-D62282FD28C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB7FDA7F-D23F-498B-81B1-418D6DBE6C35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7FDA7F-D23F-498B-81B1-418D6DBE6C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7FDA7F-D23F-498B-81B1-418D6DBE6C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7FDA7F-D23F-498B-81B1-418D6DBE6C35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C975E9-2271-421A-87E4-86A546223FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C975E9-2271-421A-87E4-86A546223FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C975E9-2271-421A-87E4-86A546223FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C975E9-2271-421A-87E4-86A546223FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD05AA30-6F19-447A-B07C-D62282FD28C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD05AA30-6F19-447A-B07C-D62282FD28C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD05AA30-6F19-447A-B07C-D62282FD28C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD05AA30-6F19-447A-B07C-D62282FD28C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A3CFB20-BABC-4FE3-B050-63E577B87804}
+	EndGlobalSection
+EndGlobal
